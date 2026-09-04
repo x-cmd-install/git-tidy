@@ -7,7 +7,7 @@ about:
   head: 270f8aa
   archived: false
   latestVersion: v2.0.1
-  collectedAt: 2026-09-04T19:55:00Z
+  collectedAt: 2026-09-04T20:45:31Z
 timeline:
   created: 2019-03-08
   lastCommit: 2023-04-26
@@ -81,6 +81,29 @@ total:
   openIssue: 4
   commit: 65
 ---
+path: /home/runner/.x-repo/github.com/drewwyatt/git-tidy
+collectedAt: 2026-09-04T20:45:31Z
+loc:
+  Rust:
+    code: 276
+    comments: 1
+    blanks: 48
+    files: 5
+  Toml:
+    code: 16
+    comments: 1
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 47
+    blanks: 28
+    files: 1
+total:
+  code: 304
+  comments: 53
+  blanks: 78
+  files: 7
 ---
 date: "2026-08-24"
 repo:
