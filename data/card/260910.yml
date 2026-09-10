@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.0.1"
   latestRelease: "v2.0.1"
   latestPrerelease: "0.4.0"
-  collectedAt: 2026-09-10T05:36:50Z
+  collectedAt: 2026-09-10T17:15:22Z
 timeline:
   created: 2019-03-08
   lastCommit: 2023-04-26
@@ -84,7 +84,7 @@ total:
   commit: 65
 ---
 path: /home/runner/.x-repo/github.com/drewwyatt/git-tidy
-collectedAt: 2026-09-10T05:36:51Z
+collectedAt: 2026-09-10T17:15:23Z
 loc:
   Rust:
     code: 276
